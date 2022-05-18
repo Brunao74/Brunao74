@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brunao74
 - 👀 I’m interested in programar y poder hacer q se programe en espalñol o esperanto
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Developer
+- 💞️ I’m looking to collaborate on ArgentinaPrograma
 - 📫 How to reach me ...
 
 <!---
